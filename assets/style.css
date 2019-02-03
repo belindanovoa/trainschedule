@@ -1,0 +1,29 @@
+body{
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+.jumbotron{ 
+    color: rgb(65, 63, 63);
+    background-color: rgb(155, 116, 199);
+}
+
+.container{
+    background-color: rgb(165, 142, 192);
+}
+
+.panel{
+    background-color: rgb(152, 119, 190);
+
+}
+
+.btn{
+    color: rgb(98, 40, 124);
+    background-color: rgb(40, 15, 68);
+}
